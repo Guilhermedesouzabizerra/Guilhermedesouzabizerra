@@ -1,4 +1,13 @@
-## Hi there 👋
+
+# Olá! 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+
+💻 Desenvolvedor em formação, apaixonado por tecnologia e programação.
+
+🚀 Aprendendo C, lógica de programação, Git e GitHub.
+
+🎯 Meu objetivo é evoluir como desenvolvedor e criar projetos que façam a diferença!
 
 <!--
 **Guilhermedesouzabizerra/Guilhermedesouzabizerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
